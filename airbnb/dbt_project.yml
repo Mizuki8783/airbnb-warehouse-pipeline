@@ -40,5 +40,5 @@ models:
     gold:
       +materialized: table
       +schema: gold
-      ephemerel:
-        +materialized: ephemerel
+      ephemeral:
+        +materialized: ephemeral
